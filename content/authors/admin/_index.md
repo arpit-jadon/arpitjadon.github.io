@@ -53,15 +53,15 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2024-04-24
-    summary: |
-      Thesis. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+  # - area: PhD Artificial Intelligence
+  #   institution: Stanford University
+  #   date_start: 2016-01-01
+  #   date_end: 2024-04-24
+  #   summary: |
+  #     Thesis. 
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
   - area: MSc Computer Science
     institution: Saarland Informatics Campus
     date_start: 2020-11-04
