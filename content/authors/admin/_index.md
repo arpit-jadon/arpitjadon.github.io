@@ -58,8 +58,7 @@ education:
     date_start: 2016-01-01
     date_end: 2024-04-24
     summary: |
-      Thesis on Semantic Road Scene Understanding with
-Realistic Synthetic Data. Supervised by [Dr Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html). 
+      Thesis. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
