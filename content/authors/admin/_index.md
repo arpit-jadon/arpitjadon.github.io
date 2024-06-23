@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Arpit Jadon
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Arpit
+last_name: Jadon
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine Learning Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,53 +31,56 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:arpitjadonamu@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/arpit-jadon
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/arpitjadonamu/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.co.in/citations?user=F6DEWz0AAAAJ&hl=en&oi=ao
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
+  - Computer Vision
+  - Machine Learning 
+  - Data Science
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2024-04-24
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Semantic Road Scene Understanding with
+Realistic Synthetic Data. Supervised by [Dr Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html). 
+      # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computer Science
+    institution: Saarland Informatics Campus
+    date_start: 2020-11-04
+    date_end: 2024-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 1.5/5.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Tech Electrical Engineering
+    institution: Aligarh Muslim University
+    date_start: 2015-08-23
+    date_end: 2019-07-26
     summary: |
-      GPA: 3.4/4.0
+      GPA: 9.28/10.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +186,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have been working on various computer vision and machine learning problems since 2017 with applications in multiple fields like digital pathology, digital radiology, autonomous driving, autonomous laser material processing, and robotics, etc. I completed my Master’s in Computer Science from Saarland University in April 2023 where I was fortunate to work at prestigious research institutes like German Research Center for AI (DFKI) and Max Planck Institute for Informatics (MPII).
