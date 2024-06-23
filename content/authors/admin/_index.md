@@ -68,6 +68,8 @@ education:
     date_end: 2024-12-31
     summary: |
       GPA: 1.5/5.0
+      Thesis on Semantic Road Scene Understanding with
+Realistic Synthetic Data. Supervised by [Dr Dengxin Dai]
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
