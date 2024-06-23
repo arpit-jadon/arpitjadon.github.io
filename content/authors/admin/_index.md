@@ -60,7 +60,6 @@ education:
     summary: |
       Thesis on Semantic Road Scene Understanding with
 Realistic Synthetic Data. Supervised by [Dr Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html). 
-      # Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
