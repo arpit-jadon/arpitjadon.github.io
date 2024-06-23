@@ -6,7 +6,7 @@
 # Website name
 title: Arpit Jadon
 # Website URL
-baseURL: ''
+baseURL: 'http://arpitjadon.github.io/'
 
 ############################
 ## LANGUAGE
