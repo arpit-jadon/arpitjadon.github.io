@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: CV/Resume
+        url: uploads/Arpit_MS_Resume_0.pdf
     design:
       css_class: dark
       background:
